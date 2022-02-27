@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter sent to the most illustrious and high borne Prince Rupert by the grace of God Count Palatine of the Rhine, Duke of Bavaria, &amp;c. / Translated out of High Dutch. Printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80492</idno>
+            <idno type="STC">Wing C6158</idno>
+            <idno type="STC">Thomason E6_4</idno>
+            <idno type="STC">ESTC R2718</idno>
+            <idno type="EEBO-CITATION">99872152</idno>
+            <idno type="PROQUEST">99872152</idno>
+            <idno type="VID">154709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154709)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter sent to the most illustrious and high borne Prince Rupert by the grace of God Count Palatine of the Rhine, Duke of Bavaria, &amp;c. / Translated out of High Dutch. Printed according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Moses Bell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>12. Aug. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: portrait of Prince Rupert.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154709:1" rendition="simple:additions"/>
+            <p>A Copie of a LETTER Sent to the moſt Illuſtrious and High borne Prince RUPERT By the grace of God Count Palatine of the Rhine, Duke of Bavaria, &amp;c.</p>
+            <p>
+               <hi>Tranſlated out of high Dutch.</hi>
+            </p>
+            <p>Printed according to Order.</p>
+            <figure>
+               <figDesc>woodcut of portrait of man</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> printed by <hi>Moſes Bell,</hi> 12. Aug. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154709:2"/>
+            <pb n="1" facs="tcp:154709:2"/>
+            <head>A Copy of a Letter to Prince RUPERTS Highneſſe, tranſlated out of high Dutch.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He love and honour which I owe and beare to the moſt Illuſtrious Palatine Family, inforce me to addreſſe my ſelfe unto your Highneſſe, a Branch of that Princely Stem, of extraordina<g ref="char:EOLhyphen"/>ry expectation to reſtore by Reſolution and Armes, to their juſt Poſſeſsions and Dignities, Princes of an Electorall Houſe of the Roman Empire, and of the Blood Royall of <hi>Great Britaine</hi> (made the ſcorn and mockery of the Houſe of <hi>Auſtria</hi>) which neither by Treatis nor Threatnings could hitherto be effected. It is (Sir) to let you know that which none about you will; or (if they would) dare tell you the truth, in that thoſe Counſels and Actions which now in <hi>England</hi> you ſo eagerly proſecute, tend extremely to your diſhonour and weakning. Perſons which are much intereſſed in matters, may be thought not altogether fit to be conſulted touching the things in which they are ingaged, that I, who am of neither Partee, now in Arms, may hope to be heard without pre<g ref="char:EOLhyphen"/>judice, and that you will eſteeme thoſe of your owne ſide in like or worſe condition, who being Papiſts, they, and none but they, can by killing of the ſervants of God, be meant to think they ſerve God; or neceſsitous perſons, whom <hi>Caeſar</hi> telleth you have no hope but in a Civill Warre, are far the greateſt number; the firſt undertakers, and moſt obſtinate proſecutors of all that ſide with you. And glad I am that this Paper will not feare to tell you how much you diſhonour your ſelfe by fighting, not only on the ſide, but even for the cauſe of ſuch men, who have beene and ſtill are in the number of the greateſt enemies of your Houſe. Such are thoſe very perſons which have beene the Complotters, and are
+<pb n="2" facs="tcp:154709:3"/>the Fomenters of that Civill Warre. Thoſe (I meane) who in the Breach of <hi>Bohemia</hi> inſtilled their venome into your Grandfather King <hi>James</hi> his eares, <hi>That your Fathers moſt juſt Title by a lawfull Electi<g ref="char:EOLhyphen"/>on to that Kingdome, was no other then by uſurpation, and that the Prince Ele<g ref="char:EOLhyphen"/>ctor was thereby the cauſe of the preſent troubles in Germany.</hi> In the cauſe of the <hi>Palatinate,</hi> where no pretence of Uſurpation could be faſtned (it being your Fathers birth right) they dealt more ſubtilly, but as falſly as in that of <hi>Bohemia,</hi> When it had been too open and pal<g ref="char:EOLhyphen"/>pable to have diſſwaded the King wholly from aſsiſting his onely Daughter in recovering her Dowrie, and her children their Pa<g ref="char:EOLhyphen"/>trimonie. Your kinde enemies one while by ſending too little aid, and that for the moſt part unſeaſonable, other times by waſting opportunities in tedious Embaſsies, or ſetting on foot croſſe De<g ref="char:EOLhyphen"/>ſignes, were the cauſe that the Palatinate was rather betrayed then neglected. And what is the end and ſcope you aime at, but the de<g ref="char:EOLhyphen"/>ſtruction of them who never aſſembled ſince the firſt of your ſuf<g ref="char:EOLhyphen"/>ferings, but did highly reſent and take to heart your wrongs and ſufferings and made ſuch large offers for the redreſsing of them, and ſo earneſtly preſſed the ſudaine and ſerious taking the matter in hand that the buſineſſe of the Palatinate (what pretence ſoe<g ref="char:EOLhyphen"/>ver could be made) was the principall cauſe of diſſolving the Par<g ref="char:EOLhyphen"/>liament in the one and twentieth yeere of that King. And al<g ref="char:EOLhyphen"/>though it cannot be ſaid thereupon, that the Prince Electors Cauſe was (for that of <hi>Bohemia</hi> was very odious) wholly laid by, yet was it never committed (as was deſired) to the managing of the Par<g ref="char:EOLhyphen"/>liament, nor their Counſell asked in it, leſt it ſhould have beene put into their hands who would have dealt in it <hi>Bona fide.</hi>
+            </p>
+            <p>But how hath the influence of the favour of your Royall Un<g ref="char:EOLhyphen"/>kle the King of great <hi>britaine</hi> toward you, expreſſed clearely by the liberall aid ſent into <hi>Germany</hi> unto the King of <hi>Sweden,</hi> with reſpect and reference unto the ſufferings of his onely Siſter and Princely Nephews been ſtopt, by ſending very little ſupply of men or money after the firſt? How have Ambaſſadours diſpatched from the Proteſtant united Princes in <hi>Germany,</hi> which had regai<g ref="char:EOLhyphen"/>ned a very conſiderable part of that Country, ſent unto the King for aid, to keep at leaſt what they had gotten, beene ſent away without effect? Nor could it be otherwiſe, untill by the Prince Electors an, your Perſonall repaire to the Court of <hi>England,</hi> and ſtanding ſomewhat betwixt his Majeſtie your Unkle, and your whiſpering enemies, you obtained ſome ſupply of both kindes.
+<pb n="3" facs="tcp:154709:3"/>But leſt you ſhould miſtake, and thinke them ſome others then thoſe which gave the counſell in King <hi>James</hi> his time, or that you are not now fallen among thoſe very Councellors and men of their election, compare the practices of them in King <hi>James</hi> his time with thoſe which in the reigne of King <hi>Charies</hi> even to this day they have not diverted from, and you ſhall finde ſtill the ſame things. Which of thoſe men whom then you might ſuſpect to be your enemy, hath ſince this Parliament beene made your friend? and how was the reconciliation made? What though ſome that were then Counſellors are now dead? of them un<g ref="char:EOLhyphen"/>doubtedly ſome you ſuſpect not, others were not the principall Agents, for ſince their death the ſame Counſels notwithſtanding. Some forces were ſent at the beginning of the troubles of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>latinater</hi> under the raigne of your Royall Grandfather, the like was ſent in behalfe of the Prince Elector to the <hi>Swede</hi> at his firſt advancing into <hi>Germany.</hi> Very little ſupply went from <hi>England,</hi> yet ſome, both to your Father from King <hi>James,</hi> and to Him alſo and your Brother from King <hi>Charles.</hi> Ambaſſadours were often ſent, and as often deluded in both times, And as before, while a Fleet was rigged, and ſot ſaile to <hi>Algier</hi> for the conquering of the Pirates, the Emperour, Spaniard, and their Allies over-ran the <hi>Pa<g ref="char:EOLhyphen"/>latinate.</hi> So lately, when it was feared by your enemies, that the Kings patience toward the Emperour and Spaniard for his Siſters ſufferings and her Childrens, would ſhortly come to am end (for it was determined that, if Juſtice were not done in the Prince Electors Cauſe before ſuch a time, his Majeſtie would endeavour by force of Armes himſelfe to doe it) a plot was contrived to turne the edge of the Kings anger upon the Pirates of <hi>Sally</hi> with another Fleet, that the great Pirate of Chriſtendome might once more illude the Juſt and Royall Indignation of King <hi>Charles</hi> conceived againſt the Emperour. Touching this Parliament, I have heard that the conſideration, or rather memory of your great Cauſe, preoccupied the vehement reſolution of the States then aſſem<g ref="char:EOLhyphen"/>bled. Was not this preventing of the Houſes undaunted con<g ref="char:EOLhyphen"/>ſtancy to appeare in the matter, an Art (which your Adverſaries are not now to learne) to wring the worke from the Parliament, and mould it after their owne faſhion? Howſoever you cannot doubt of the principall moving cauſe which wrought any thing in that work, aroſe from that preſent aſſembling. In ſo much that neither your wrongs had beene in any more hope of redreſſe
+<pb n="4" facs="tcp:154709:4"/>then before (and yet hitherto it hath beene onely a warre of many moneths, and two more joint Ambaſſadours) or your Selfe (great Prince) of liberty, but for their ſakes whom you ſeek to deſtroy. What may it poſsibly be then which provoketh you thus againſt that Kingdome? Is it the Juſtice of the quarrell for which you fight? For your Religion, I ſuſpect it not, for had that beene altered, queſtionleſſe they had releaſed you before this time. Yet I know you have beene often and craftily dealt with<g ref="char:EOLhyphen"/>all during your reſtraint to alter that. And this I cannot paſſe by, the providence of God, who ſo appointed that you ſhould not fall into the hands of your enemies till you had actually lea<g ref="char:EOLhyphen"/>vied warre againſt the Emperour, and that your liberty could not be obtained untill the aſſembling of the Parliament, that the Kingdome of <hi>England</hi> might have therewith to ſtop your mouth touching the Juſtice of their Cauſe, and to upbraid you with in<g ref="char:EOLhyphen"/>gratitude toward them who were the chiefe Inſtruments of your preſent freedome. For if to fight againſt the forces of the Empe<g ref="char:EOLhyphen"/>rour be to fight againſt the Emperour, what doth the Engliſh Parliament to day, you did not in <hi>Germany</hi> yeſterday? And to all intents and purpoſes of that kinde, your Royall Grandfather of bleſſed memory furniſhed your Father, and ſo did King <hi>Charles</hi> the Prince Elector and your Selfe. Or is Prince <hi>Rupert</hi> leſſe ſub<g ref="char:EOLhyphen"/>ject to the Emperour then the Parliament of <hi>England</hi> to their King, that they muſt even to the hazard of all obey his perſonall com<g ref="char:EOLhyphen"/>mands, who may ſo erre, that the Kingdome enwrapt in the ſafety of the Parliament, may bee deſtroyed? when if Prince <hi>Frederick</hi> and Prince <hi>Rupert</hi> ſhould faile, or be deſtroyed by the in<g ref="char:EOLhyphen"/>juſtice of the Emperour <hi>Ferdinand,</hi> Prince <hi>Maurice</hi> may ſucceed; and if he miſcarry, a younger brother; ſo that there is no ſuch danger either of the common wealth of the <hi>Palatinate,</hi> or of the Illuſtrious Family, if both the Prince Elector and your Selfe ſhould (which God avert) ſuffer much more then the loſſe of Pa<g ref="char:EOLhyphen"/>trimony. Let this be farre from the thoughts of any reaſonable man. Why doe I ſeeke for any other inducement? plainly that which drew you to that party could be no other then reſpect of particular advantage, hoping by ſo ſtrictly adhering to the King your Uncles ſide, to winde your ſelfe ſo farre into his favour, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now at laſt (if his Majeſtie ſhall prevaile) no let may hinder <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from taking Armes for you, as you for him. Yet give me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to tell your Highneſſe, that ſo ſoone as th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:154709:4"/>abroad of a grant of your liberty, I preſently apprehended that the Spaniard and their faction had ſome thing to doe for you in the troubles of <hi>England,</hi> which were then in conception, becauſe they had never beene ſo kinde unto you till that time and in your common Cauſe the two Ambaſſadours could obtaine no<g ref="char:EOLhyphen"/>thing which was equall. So at length have your enemies, when they had before hindered your Allies from arming to aſsiſt you, and afterward when with much labour ſome appeared for you, diſarmed them, and armed your ſelfe againſt your ſelfe. Then which what can be more done to your diſhonour and dammage? But in caſe victory ſhall be with the Parliment, it is much to be feared that the ſufferings of your Houſe, more then twenty yeers neglected, will not eaſily be taken into their thoughts; or if every Branch, beſides your Selfe and Prince <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rice,</hi> be thought worthy of the Kingdome of <hi>Englands</hi> helpe and charge, notwithſtanding their extreme burdens and late troubles, the Commons of <hi>England</hi> will except againſt you both, as not willing to have new burdens laid upon their ſhoulders, for their ſakes by whom they have already groaned under ſo many. If on the other ſide the Partee you ſight for ſhall be victorious, it is not to be hoped that thoſe Counſellors, and their creatures, who have dealt ſo perfidiouſly by your Royall Father, by the Prince Elector your Brother, and your whole Family (for now they have that Kings eare more obnoxious then ever they had before, thoſe noble Lords who were and are your friends, being retired from the Court) will change their Religi<g ref="char:EOLhyphen"/>on, their Natures, or Dependencies, being Perſons in heart, if not in publike profeſsion, Papiſts. or Penſioners unto the Spaniard, or dependents of the one or the other. Will thoſe which now fight for and with Papiſts in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritantie,</hi> undoe what they have effected there by fighting againſt Papiſts in <hi>Germa<g ref="char:EOLhyphen"/>ny?</hi> And as Prince <hi>Rupert</hi> may not expect any aſsiſtance by all reaſon of Religion and Conſcience from the Catholikes of <hi>Bri<g ref="char:EOLhyphen"/>taine</hi> (which now and in this Cauſe are his greateſt friends) againſt the Emperour and Catholike King; ſo neither from King <hi>Charles</hi> againſt them by the law of Gratitude (forſooth) the one of which releaſed the Prince out of priſon and ſent him to his Uncle, the other protecteth the Kings Ships, though he takes the Parliaments by reprize.</p>
+            <pb n="6" facs="tcp:154709:5"/>
+            <p>To the more indifferent party it will be ſufficient to ſay, The French are too potent; Protect the Spaniard in <hi>Artois</hi> and <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> in point of State, or make them beleeve the <hi>Palatinate</hi> not worth the recovering, although your enemies account it well worth the keeping. But that the Prince may not thinke of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> perſwade him to the conqueſt of <hi>Madagaſcor,</hi> and intitle him to the Dutchy of <hi>Cumberland,</hi> which are ſeated farre enough from his own Country. Although your Highneſſe could not but have taken it better, and with leſſe ſuſpicion, to have a promiſe made you of reſtoring unto you that which is properly your owne. But I aſſure you (Sir) whatſoever <hi>your Selfe, or ſome of you may in<g ref="char:EOLhyphen"/>tend,</hi> You all fight for the King of <hi>Spaine.</hi> And that you may the better know what theſe men are like to doe for you in time to come, conſider with your Selfe what they have already done; They have drawne you either from peaceable abiding with your Royall Mother and the Prince Elector at the <hi>Hage,</hi> or from purſuing your Right and Patrimony in <hi>Germany,</hi> by joyning with the Princes of the Euangelicall Union, to hazard your life in Battails, Sieges, Skirmiſhes, in which if valiant Prince <hi>Rupert</hi> ſhall loſe his life, the King of <hi>Spaine</hi> can be no loſer. They have throwne the envy of all their Cruelties, Spoiles, and Villa<g ref="char:EOLhyphen"/>nies in Prince <hi>Ruperts</hi> face, in every troop almoſt (I heare) pretend<g ref="char:EOLhyphen"/>ing his Authority, and uſing his name to all their Outrages; and (what in them lieth) drawne the whole Electorall Family into hatred, and by theſe things into feare of a helpleſſe condition. For it is the Kingdome of <hi>England</hi> (under God) which muſt performe for that Houſe (if ever it be done) the great worke of Reſtauration. Lay downe therefore now at length (High bo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Prince) your Armes; and although the Kingdome of <hi>England</hi> for all it hath done, or meant to have done for you, deſerve to be thus rewarded, be not cruell to your Selfe and Princely Family. Sir, pardon me, I have told you the truth. God open your eyes and heart alſo.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
